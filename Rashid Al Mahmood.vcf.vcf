@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.1//EN
+N:Mahmood;Rashid;Al;;
+FN:Rashid Al Mahmood
+ORG:Civil Service Bureau;
+EMAIL;type=INTERNET;type=HOME;type=pref:rf.almahmood@gmail.com
+EMAIL;type=INTERNET;type=WORK:rashid.fa@csb.gov.bh
+TEL;type=CELL;type=VOICE;type=pref:39607979
+END:VCARD
